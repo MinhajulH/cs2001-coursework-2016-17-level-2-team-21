@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "631325675069",
+    "firebase_url": "https://login-cd31c.firebaseio.com",
+    "project_id": "login-cd31c",
+    "storage_bucket": "login-cd31c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631325675069:android:e8ec721f749cde2a",
+        "android_client_info": {
+          "package_name": "com.newprojectexample.menuqrscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631325675069-5mkl9atotv59c0sf2q563m4q1vluctkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjjMBdLB10bAqgC-zjWaE15r1milEb_O0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

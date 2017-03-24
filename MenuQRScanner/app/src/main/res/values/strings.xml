@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Menu QR Scanner</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_tutorial">TutorialActivity</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+
+    <string name="contact_form">Contact Us</string>
+    <string name="contact_form_name">Your Name</string>
+    <string name="contact_form_email">Your Email</string>
+    <string name="contact_form_subject">Subject</string>
+    <string name="contact_form_message">Message</string>
+    <string name="contact_form_button">Send Message</string>
+    <string name="contact_form_post_message">Please wait! We\'re sending your message to the Mojo Menus Team!.</string>
+    <string name="contact_posted">Your message has been delivered successfully!</string>
+
+    <string name="password_hint">Password</string>
+    <string name="email_hint">Email</string>
+    <string name="sign_up_button_label">Sign Up</string>
+    <string name="signup_error_message">Please make sure you enter an email address and password!</string>
+    <string name="signup_error_title">Error!</string>
+    <string name="signup_success">Account successfully created! You can now Login.</string>
+    <string name="login_error_message">Please make sure you enter an email address and password!</string>
+    <string name="login_error_title">Error!</string>
+    <string name="login_button_label">Login</string>
+    <string name="sign_up_text">Sign Up!</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="add_item">Add New Item</string>
+    <string name="action_logout">Logout</string>
+</resources>
